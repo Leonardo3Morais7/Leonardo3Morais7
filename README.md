@@ -8,7 +8,7 @@ Always focused on using code to solve problems and contribute with my team.
 
 * 🌍  I'm based in São Paulo - Brazil
 * ✉️  You can contact me at my [Email](mailto:leonardo3morais7@gmail.com)
-* 🚀  I'm currently working on [Wipro](http://www.wipro.com)
+* 🚀  I'm currently working at [Wipro](http://www.wipro.com)
 * 🧠  I'm learning more about Software Architecture
 
 ### Core Skills
